@@ -1,0 +1,29 @@
+{
+  "name": "auto-deploy",
+  "version": "0.0.0",
+  "description": "Auto deploy your Node.js app when you git push",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charltoons/auto-deploy.git"
+  },
+  "keywords": [
+    "auto",
+    "deploy",
+    "ci",
+    "continuous",
+    "integration",
+    "git",
+    "push",
+    "github",
+    "bitbucket"
+  ],
+  "author": "Charlton Roberts <charltonroberts@gmail.com>",
+  "license": "Apache v2",
+  "bugs": {
+    "url": "https://github.com/charltoons/auto-deploy/issues"
+  }
+}
